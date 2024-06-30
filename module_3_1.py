@@ -9,4 +9,3 @@ while True:
         break
     except ValueError:
         print("Введено дату в невірному форматі.")
-        print("Введено дату в невірному форматі.")
